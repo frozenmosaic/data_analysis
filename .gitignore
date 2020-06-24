@@ -1,5 +1,5 @@
-machine_learning/data/lending_club_loan
-machine_learning/tutorials/
+data/lending_club_loan
+tutorials/
 
 .env
 .DS_store
