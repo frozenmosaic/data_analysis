@@ -2,3 +2,5 @@ machine_learning/data/lending_club_loan
 machine_learning/tutorials/
 
 .env
+.DS_store
+.cache-h_vy
