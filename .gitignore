@@ -1,6 +1,8 @@
 data/lending_club_loan
 tutorials/
 
+# system
+.ipynb_checkpoints
 .env
 .DS_store
 .cache-h_vy
